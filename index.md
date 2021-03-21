@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my blog?
 
-I'm glad you are here. I plan to talk about ...
+Not really my blog. Just a robot powered training repository so I can learn more about GitHub Pages.
+
+I'm really enjoying everything so far.
